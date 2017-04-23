@@ -12,8 +12,7 @@ public class IndexView {
     private String message;
 
     public IndexView(){
-        message = "Hi Daniel, estou apenas testanto, mas em breve sua aplicação também estará"
-                + "no ar!! :)";
+        message = "Helloa";
     }
 
     public String getMessage() {
